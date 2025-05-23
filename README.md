@@ -1,6 +1,6 @@
 # Task Manager in Python
 
-A simple command-line task manager built with Python.
+A simple command-line task manager built with Python using Vim
 
 ## Features
 
